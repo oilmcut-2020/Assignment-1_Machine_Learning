@@ -10,3 +10,14 @@ Also if you want to demostrate in class you can come forward to present.
 ## Date : 03-27-2020
 
 This is the second assignment in which need to practice for Multiple Linear Regression.. Read something related to Multiple Linear Regression and also try some examples.
+
+## NOTE : Please make different branch for each assignment .
+
+For example : 
+```
+1) Branch --> WEEK-01 ---> Assignment 1
+2) Branch --> WEEK-02 ---> Assignment 2
+3) Branch --> WEEK-03 ---> Assignment 3
+4) Branch --> WEEK-04 ---> Assignment 4
+5) Branch --> WEEK-05 ---> Assignment 5
+```
